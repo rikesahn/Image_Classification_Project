@@ -5,6 +5,7 @@ using TensorFlow and Keras to classify images into multiple classes
 **Objective:** Help bird watchers identify birds they photographed!
 
 ### Kaggle dataset: 
+'''
     - 47332 training images (JPG)
     - 1625 test images, 1625 validation images (JPG)
     - List of 325 Bird Species (CSV)
